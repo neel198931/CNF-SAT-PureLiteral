@@ -1,0 +1,5 @@
+ The solution is
+x[1] = 0
+x[2] = 0
+x[3] = 0
+Run time is 63 milliseconds
